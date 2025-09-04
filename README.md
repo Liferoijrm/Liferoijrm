@@ -11,10 +11,12 @@ I'm Pedro Marcinoni, a Computer Science student based in Brasília. Always explo
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liferoijrm)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liferoijrm&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-## Programming languages           
-<img allign="left" alt="c" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+## Programming languages 
 
-<img allign="left" alt="c" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<p>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+</p>
           
           
           
