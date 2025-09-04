@@ -13,5 +13,7 @@ I'm Pedro Marcinoni, a Computer Science student based in Brasília. Always explo
 
 ## Programming languages           
 <img allign="left" alt="c" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<i class="devicon-cplusplus-plain colored"></i>
+          
           
           
