@@ -20,6 +20,8 @@ These are languages I have experience with:
           &nbsp;
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
+          &nbsp;
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
@@ -27,7 +29,7 @@ These are languages I have experience with:
 </p>
 
 - **Strong experience:** C, C++, Java  
-- **Practical experience with:** JavaScript, TypeScript, HTML, CSS
+- **Practical experience with:** Python, JavaScript, TypeScript, HTML, CSS
 
 ## Technologies
 
@@ -44,8 +46,8 @@ These are tools I have experience with:
 </p>
 
 - **Strong experience:** Git
-- **Practical experience with:** Node.js, Next.js, React, Tailwind CSS  
-- **Currently learning:** Vue, Nuxt
+- **Practical experience with:** Vue, Nuxt, Node.js, Next.js, React, Tailwind CSS  
+
           
           
           
