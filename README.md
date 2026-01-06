@@ -8,8 +8,9 @@ I'm Pedro Marcinoni, a Computer Science student based in Brasília. Always explo
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liferoijrm)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liferoijrm&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Liferoijrm&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Liferoijrm&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Liferoijrm&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## Programming languages 
 
