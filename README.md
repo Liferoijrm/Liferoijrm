@@ -28,8 +28,8 @@ These are languages I have experience with:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="40"/>
 </p>
 
-- **Strong experience:** C, C++, Java  
-- **Practical experience with:** Python, JavaScript, TypeScript, HTML, CSS
+- **Strong experience:** C, C++, Java, Assembly RISC-V 
+- **Practical experience with:** Ruby, Python, JavaScript, TypeScript
 
 ## Technologies
 
