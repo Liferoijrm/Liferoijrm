@@ -2,7 +2,6 @@
 
 I'm a Brazilian Computer Science student at UnB (5th semester), focused on performance, low-level programming and problem solving.
 
-- 4.99/5 GPA (IRA)
 - Experience with system-oriented development, competitive programming, RISC-V Assembly, C
 - Die-hard Flamengo supporter ❤️🖤
 
