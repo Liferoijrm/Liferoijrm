@@ -11,7 +11,7 @@ I'm a Brazilian Computer Science student at UnB (5th semester), focused on perfo
   
 - Cartolitos FC App: desktop application built with JavaFX, MVC architecture, and PostgreSQL
   
-- Droid Defender: Pac-Man–inspired game written in RISC-V Assembly (~5500 LOC)
+- Droid Defender: Pac-Man–inspired game written in RISC-V Assembly
   
 - Gale–Shapley Visualization: Python implementation with Jupyter and Matplotlib
   
